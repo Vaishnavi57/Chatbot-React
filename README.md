@@ -1,4 +1,4 @@
-<h1>Chatbot Application</h1>h1>
+<h1>Chatbot Application</h1>
 Overview
 This project is a chatbot interface built using React. It simulates a user interaction with a bot to answer queries. The chatbot uses dynamic chat history and communicates with a backend API to generate responses.
 
